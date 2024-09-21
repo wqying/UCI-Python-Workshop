@@ -65,3 +65,6 @@ print("Male dancers:", guys)
 
 girls = people[0:2]
 print("Female dancers:", girls)
+
+# Slicing tip:
+last_four = long_name[-4:]
